@@ -26,7 +26,7 @@ Un soporte L1 es el nivel de soporte que atiende incidencias comunes y con soluc
 
 ## ¿Qué hace actualmente Operaciones?
 
-
+Actualmente, la Gerencia de Operaciones administra el soporte de FM-Mobile y concentra conocimiento funcional y operativo del servicio. Las actividades exactas que realiza hoy, los tipos de casos que resuelve y sus fronteras con otros equipos deben validarse durante la transición.
 
 ## ¿Qué hará Monitoreo?
 
@@ -35,18 +35,5 @@ Operar soporte L1 para FM-Mobile en YARVIS, esto incluye:
 - Registrar incidentes
 - Categorizar o recategorizar incidentes
 - Establecer prioridades (P1-P4) a los incidentes
-- Diagnosticar y analizar causas raíces
-- Escalar con evidencias cuando el incidente sobrepase el alcance de L1
+- Diagnosticar inicialmente, aplicar procedimientos conocidos, recopilar evidencia y escalar cuando el caso exceda el alcance de L1.
 - Mantener comunicación con las personas de Operación para alimentar bases de conocimiento
-
----
-
-# Lo que todavía no entiendo
-
-- ¿Qué actividades concretas realiza hoy el L1 de la aplicación?
-
-- ¿Cuáles son límites de cada nivel?
-
-- ¿Cómo se diferencia el soporte de la aplicación del soporte del propio dispositivo?
-
-- ¿Habra capacitación por parte de Amadeus?
